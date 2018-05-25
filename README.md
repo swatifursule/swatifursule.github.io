@@ -1,2 +1,4 @@
 # swatifursule.github.io
-Swati Fursule Github page
+Github page
+
+GitHub makes it easy to create personal websites
